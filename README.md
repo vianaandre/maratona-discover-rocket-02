@@ -58,7 +58,7 @@ Projeto criado na Maratona Discover da Rocketseat com o intuito de aprendermos m
 <li> ✅ Aprendi a inserir, deletar, atualizar e buscar dados no banco de dados com comando SQL </li>
 </ul>
 
-> <a href="https://www.notion.so/MARATONA-DISCOVER-44790c6c0f324ecfa1a8342f41716997"> Link do Notion </a> 
+> <a href="https://truth-heaven-a3e.notion.site/MARATONA-DISCOVER-44790c6c0f324ecfa1a8342f41716997"> Link do Notion </a> 
 
 <hr />
 
